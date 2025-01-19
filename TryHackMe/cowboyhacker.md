@@ -18,4 +18,4 @@ Priv Esc:
 Root Flag: THM{80UN7Y_h4cK3r}
 
 
-
+			
